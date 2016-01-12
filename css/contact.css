@@ -83,3 +83,7 @@ i {
 	
 	padding: 10px 59px;
 }
+
+.fa:hover {
+	color: black;
+}
