@@ -22,7 +22,7 @@ Contact Content
 #container .contactContent
 {
 	margin: 54px 0 0 0;
-	text-align: left;
+	text-align: center;
 }
 
 #container .contactContent h1
@@ -77,6 +77,9 @@ i {
 	display: block;
     margin: 0 auto;
 
-	
+}
 
+.fa {
+	
+	padding: 10px 59px;
 }

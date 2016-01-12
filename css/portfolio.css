@@ -52,6 +52,7 @@ Description
 {
 	font: normal 0.75em "Times New Roman", Times, serif;
 	color: #da470e;
+	font-size: 30px;
 }
 
 #container .description h2
@@ -67,8 +68,10 @@ Description
 {
 	margin: 20px 0 20px 0;
 	font: normal 0.583em "Times New Roman", Times, serif;
-	color: #373431;
+	color: #807873;
 	line-height: 1.5em;
+	font-size: 30px;
+	font-style: italic;
 }
 /*######################################################
 ---/ End Description

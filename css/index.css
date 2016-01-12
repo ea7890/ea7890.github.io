@@ -30,7 +30,7 @@ Intro
 {
 	margin: 0;
 	padding: 0 0 5px 0;
-	font: normal 3em "Times New Roman", Times, serif;
+	font: normal 3em "Times New Roma", Times, serif;
 	color: #807873;
 	font-style: italic;
 }
@@ -46,8 +46,10 @@ Intro
 	margin: 25px 0 0 0;
 	padding: 0;
 	font: normal .75em "Times New Roman", Times, serif;
-	color: #373431;
+	color: #807873;
 	line-height: 1.5em;
+	font-size: 30px;
+	font-style: italic;
 }
 
 #container .intro a,
@@ -105,8 +107,9 @@ Featured work
 	margin: 0;
 	padding: 0;
 	font: normal 1em "Times New Roman", Times, serif;
-	color: #373431;
+	color: #807873;
 	font-style: italic;
+	font-weight: bold;
 }
 
 #container .featuredWork ul
@@ -150,8 +153,10 @@ Featured work
 	width: 300px;
 	float: left;
 	font: normal 0.75em "Times New Roman", Times, serif;
-	color: #373431;
+	color: #807873;
 	font-style: italic;
+	font-size: 20px;
+	text-align: center;
 }
 
 #container .featuredWork .end
@@ -169,4 +174,5 @@ img {
 	width: 300px;
 	border-radius: 50%;
 }
+
 

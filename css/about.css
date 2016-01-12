@@ -21,8 +21,15 @@ About Content
 ##################################################### */
 #container .aboutContent
 {
+	
 	margin: 54px 0 0 0;
 	text-align: left;
+	font: normal 0.583em "Times New Roman", Times, serif;
+    color: #807873;
+    font-size: 30px;
+    text-align: justify;
+
+
 }
 /*######################################################
 ---/ End About Content
@@ -62,6 +69,8 @@ Description
 	margin: 20px 0 20px 0;
 	font: normal 0.583em "Times New Roman", Times, serif;
 	line-height: 1.5em;
+	font-style: italic;
+	font-size: 20px;
 }
 
 #container .aboutContent .description a,
